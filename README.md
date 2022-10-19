@@ -19,12 +19,13 @@ Here are some pictures from the user interface of the application
 ![image](https://user-images.githubusercontent.com/51210369/121085463-8d30ea80-c7ea-11eb-949f-1e4916bcd051.png)
 ![image](https://user-images.githubusercontent.com/51210369/121085470-8f934480-c7ea-11eb-804e-1e4e7548f958.png)
 
-This project was created during the skg.code training program. The full description of the project is presented in the pdf file below[VacCure Project SKG.code.pdf](https://github.com/TasosBrb/VacCure_Virus-Accurate-Cure/files/6611957/VacCure.Project.SKG.code.pdf)
+This project was created during the skg.code training program. The full description of the project is presented in the pdf file below[VacCure Project SKG.code.pdf]
 
 
 
 
 
+[VacCure.Project.SKG.code.pdf](https://github.com/TasosBrb/VacCure_Virus-Accurate-Cure/files/9821031/VacCure.Project.SKG.code.pdf)
 
 
 
